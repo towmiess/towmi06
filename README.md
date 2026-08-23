@@ -9,9 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tranthom)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quynhthom.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/towmiess)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C0392B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://towmiess.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=towmiess&style=flat-square&color=C0392B&label=Profile+Views)
 
 </div>
 
@@ -64,16 +62,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=towmiess&theme=radical)](https://git.io/streak-stats)
-&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=towmiess&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ---
 
