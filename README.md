@@ -19,7 +19,7 @@
 
 - 👩‍💻 My name is **Tran Thi Quynh Thom**
 - 🎓 IT · Posts & Telecommunications Institute of Technology (PTIT)
-- 📊 **IT Business Analyst** — passionate about bridging business needs and technical execution
+- 📊 **IT Business Analyst** - passionate about bridging business needs and technical execution
 - 🔍 I enjoy digging into requirements and translating complexity into clear solutions that teams can actually build
 - 🌱 Currently exploring: **ERP · Healthtech · EdTech · Fintech · AI-powered products**
 - 📫 Reach me at: [quynhthom.work@gmail.com](mailto:quynhthom.work@gmail.com)
